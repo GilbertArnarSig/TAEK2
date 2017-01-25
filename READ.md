@@ -14,5 +14,10 @@
 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 	Hversu mörg watts þú þarft og hvað Continuous Wattage/Peak Wattage er á honum.
 
-
-
+6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+	Step 1: "Identify the Problem"
+	Step 2: "Establish a Theroy of Probable Cause"
+	Step 3: "Test the Theory to Determine Cause"
+	Step 4: "Establish a Plan of Action to Resolve the Problem and Implement the Solution"
+	Step 5: "Verify Full System Functionality and if Applicable Implement Preventive Measures"
+	Step 6: "Document Findings,Actions and Outcomes"
