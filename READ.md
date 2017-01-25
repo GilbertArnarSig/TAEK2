@@ -16,28 +16,28 @@
 	Hversu mörg watts þú þarft og hvað Continuous Wattage/Peak Wattage er á honum.
 
 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir? -
-	Step 1: "Identify the Problem"
+	1. "Identify the Problem"
 		Fá upplýsingar frá viðskiptavin, fá upplæysingar um tölvu stillingar,Vandamála lýsingr spurja viðskitavin opnar og lokaðar spurningar.
-	Step 2: "Establish a Theroy of Probable Cause"
+	2. "Establish a Theroy of Probable Cause"
 		Búa til lista yfir líklegum ástæðum, byrja listan á algengustu ástæðonum og enda á flóknustu.
-	Step 3: "Test the Theory to Determine Cause"
+	3. "Test the Theory to Determine Cause"
 		Byrja að testa algengustu ástæðurnar til að finna hvað er að.
-	Step 4: "Establish a Plan of Action to Resolve the Problem and Implement the Solution"
+	4. "Establish a Plan of Action to Resolve the Problem and Implement the Solution"
 		Búa til paln um hvað þú munt gera til þess að laga vandamálið.
-	Step 5: "Verify Full System Functionality and if Applicable Implement Preventive Measures"
-		* Restarta tölvuni.
-		* Pasa að öll forrit virkji.
-		* Staðfesta network og internet tengingu.
-		* Prenta skjal úr einu af forritonum.
-		* Tryggja að öll tengd tækji virki og.
-		* Tryggja að það séu enging error skilaboð.
-	Step 6: "Document Findings,Actions and Outcomes"
-		* Ræða lausnina við viðskiptavin
-		* Fá viðskiptavin til að staðfesta að vandamálið væri leist
-		* Veita viðskiptavin alla pappírsvinnu
-		* Skrifa niður öll skrefin tekin til að leisa vandamálið
-		* Skrifa niður alla hlúti notaða í tengsli við viðgerð
-		* Skrifa niður tíman sem það tók að leisa vandamálið
+	5. "Verify Full System Functionality and if Applicable Implement Preventive Measures"
+		1. Restarta tölvuni.
+		2. Pasa að öll forrit virkji.
+		3. Staðfesta network og internet tengingu.
+		4. Prenta skjal úr einu af forritonum.
+		5. Tryggja að öll tengd tækji virki og.
+		6. Tryggja að það séu enging error skilaboð.
+	6. "Document Findings,Actions and Outcomes"
+		1. Ræða lausnina við viðskiptavin
+		2. Fá viðskiptavin til að staðfesta að vandamálið væri leist
+		3. Veita viðskiptavin alla pappírsvinnu
+		4. Skrifa niður öll skrefin tekin til að leisa vandamálið
+		5. Skrifa niður alla hlúti notaða í tengsli við viðgerð
+		6. Skrifa niður tíman sem það tók að leisa vandamálið
 
 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended)
 spurningu?
