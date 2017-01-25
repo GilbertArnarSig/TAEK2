@@ -31,4 +31,7 @@ Nefnið dæmi um báðar gerðir af spurningum.
 8. Hvað eru jaðartæki?
 	 Um er að ræða tvær megin gerðir tengja:  stök tengi (serial) og samsíðatengi (paralell)
 
-
+9. Nefndu þrjú dæmi um inntakstæki
+	1. Lyklaborð
+	2. Mús
+	3. Myndavél
