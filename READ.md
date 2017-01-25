@@ -22,7 +22,13 @@ Step 4: "Establish a Plan of Action to Resolve the Problem and Implement the Sol
 Step 5: "Verify Full System Functionality and if Applicable Implement Preventive Measures"
 Step 6: "Document Findings,Actions and Outcomes"
 
-7.Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended)
+spurningu?
 Nefnið dæmi um báðar gerðir af spurningum.
 	"Open ended" eru spurningar sem þurfa meiri en einn orða svör á meðan "Close ended" spurningar eru spurningar sem hægt er að svar með "ja" eða "nei" eða bara stutum svörum. Dæmi um svona spurningar. Open ended: Hvaða vandamál ertu að upplifa með tölvuna?
-	Close ended: Hefur einhver annar notað tölvuna nýlega?:
+	Close ended: Hefur einhver annar notað tölvuna nýlega?
+
+8. Hvað eru jaðartæki?
+	 Um er að ræða tvær megin gerðir tengja:  stök tengi (serial) og samsíðatengi (paralell)
+
+
