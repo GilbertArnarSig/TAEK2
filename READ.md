@@ -11,3 +11,8 @@
 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir 	höfum við til að verjast því þegar unnið er með tölvubúnað?
 	ESD Stendur fyrir "Electrostatic discharge" sem er skyndileg flæði raforku á milli rafhlaðna hluti oldið af snertingu, hægt er að verjast því þegar er verið að vinna við tölvur með þvi að snerta ofn nokkru sinum á meðan þú ert að vinna með tölvu, Nota anti-static wristband og tengja það við tölvu kassan eða nota ESD mat.
 
+5. Hvað þarf að hafa í huga við val á spennugjöfum?
+	Hversu mörg watts þú þarft og hvað Continuous Wattage/Peak Wattage er á honum.
+
+
+
