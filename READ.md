@@ -54,6 +54,16 @@ Nefnið dæmi um báðar gerðir af spurningum.
 	2. Mús
 	3. Myndavél
 
-10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
-fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
-
+	----------------------------------------------------------------------------------------
+10. | Hlutur       	| Nafn							| 	 Hvar hann fæst        |    verð   |
+	| ------------- |:-----------------------------:|-------------------------:|----------:|
+	|Skjákort       | Geforce GTX 1070 8 GB -		|		- @tt.is - 		   |	68.950 |
+	|Örgjavi -      |Intel i5 6600K 3.5 ~ 3.9 GHz - |		- @tt.is - 		   |	34.450 |
+	|Minni -        |16 GB (2x8 GB) 3000 MHz - 		|		- @tt.is - 		   |	16.950 |
+	|Harði diskur   |- 512 GB Plextor M7VG - 		|		- Tölvutek - 	   |	39.990 |
+	|Móðurborð -    |Gigabyte GA-Z170N-Gaming 5 -  	|		- Tölvutek - 	   |	24.990 |
+	|Tölvukassi -   |Cooler Master Silencio 550 - 	|		- Tölvulistinn -   |	17.991 |
+	|Aflgjafi -     |Corsair CX750M 750W - 			|		- @tt.is - 		   |	18.750 |
+	|---------------|-------------------------------|--------------------------|-----------|
+	|               |                               |                          | 222.071 kr|
+	----------------------------------------------------------------------------------------
