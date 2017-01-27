@@ -57,6 +57,11 @@ Nefnið dæmi um báðar gerðir af spurningum.
 
 10. | Hlutur       	| Nafn							| 	 Hvar hann fæst        |    verð   |
 
+
+
+
+
+
 	| ------------- |:-----------------------------:|-------------------------:|----------:|
 	|Skjákort       | Geforce GTX 1070 8 GB -		|		- @tt.is - 		   |	68.950 |
 	|Örgjavi -      |Intel i5 6600K 3.5 ~ 3.9 GHz - |		- @tt.is - 		   |	34.450 |
