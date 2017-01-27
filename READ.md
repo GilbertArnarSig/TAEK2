@@ -56,12 +56,6 @@ Nefnið dæmi um báðar gerðir af spurningum.
 
 
 10. | Hlutur       	| Nafn							| 	 Hvar hann fæst        |    verð   |
-
-
-
-
-
-
 	| ------------- |:-----------------------------:|-------------------------:|----------:|
 	|Skjákort       | Geforce GTX 1070 8 GB -		|		- @tt.is - 		   |	68.950 |
 	|Örgjavi -      |Intel i5 6600K 3.5 ~ 3.9 GHz - |		- @tt.is - 		   |	34.450 |
@@ -70,4 +64,6 @@ Nefnið dæmi um báðar gerðir af spurningum.
 	|Móðurborð -    |Gigabyte GA-Z170N-Gaming 5 -  	|		- Tölvutek - 	   |	24.990 |
 	|Tölvukassi -   |Cooler Master Silencio 550 - 	|		- Tölvulistinn -   |	17.991 |
 	|Aflgjafi -     |Corsair CX750M 750W - 			|		- @tt.is - 		   |	18.750 |
+	|Aflgjafi -     |Corsair CX750M 750W - 			|		- @tt.is - 		   |	18.750 |
+    ----------------------------------------------------------------------------------------
     ----------------------------------------------------------------------------------------
